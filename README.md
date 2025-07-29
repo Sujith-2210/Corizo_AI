@@ -39,7 +39,7 @@ Corizo\_AI\_Internship/
 - **Install Requirements:**  
   ```bash
   pip install -r Minor_Project/requirements.txt
-```
+````
 
 ➡️ [Go to Minor Project](./Minor_Project/README.md)
 
@@ -69,7 +69,7 @@ Corizo\_AI\_Internship/
 
    ```bash
    git clone https://github.com/Sujith-2210/Corizo_AI.git
-   cd Corizo_AI_Internship
+   cd Corizo_AI
    ```
 
 2. **Install Virtual Environment (Optional but Recommended)**
