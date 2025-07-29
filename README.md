@@ -93,7 +93,7 @@ Corizo\_AI\_Internship/
    ```bash
    jupyter notebook
    ```
-
+```
 ---
 
 ## 📬 Contact
