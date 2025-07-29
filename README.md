@@ -12,13 +12,13 @@ Corizo\_AI\_Internship/
 │
 ├── Minor\_Project/
 │   ├── Spotify Songs’Genre Segmentation.ipynb
-│   ├── dataset.csv
+│   ├── spotify dataset.csv
 │   ├── requirements.txt
 │   └── README.md
 │
 ├── Major\_Project/
 │   ├── Cardiovascular-Disease-Prediction.ipynb
-│   ├── dataset.csv
+│   ├── cardio_train.csv
 │   ├── requirements.txt
 │   └── README.md
 │
