@@ -37,10 +37,9 @@ Corizo\_AI\_Internship/
 - **Notebook:** Walks through the clustering process and feature analysis
 - **README:** Inside `/Minor_Project/README.md`
 - **Install Requirements:**  
-  ```bash
+```bash
   pip install -r Minor_Project/requirements.txt
-```
-```
+````
 ➡️ [Go to Minor Project](./Minor_Project/README.md)
 ---
 
