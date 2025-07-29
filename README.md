@@ -40,9 +40,8 @@ Corizo\_AI\_Internship/
   ```bash
   pip install -r Minor_Project/requirements.txt
 ````
-
+  ````
 ➡️ [Go to Minor Project](./Minor_Project/README.md)
-
 ---
 
 ## 🔸 Major Project – Cardiovascular Disease Prediction
@@ -58,7 +57,6 @@ Corizo\_AI\_Internship/
   ```bash
   pip install -r Major_Project/requirements.txt
   ````
-
 ➡️ [Go to Major Project](./Major_Project/README.md)
 
 ---
