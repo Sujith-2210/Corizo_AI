@@ -39,8 +39,8 @@ Corizo\_AI\_Internship/
 - **Install Requirements:**  
   ```bash
   pip install -r Minor_Project/requirements.txt
-````
-  ````
+```
+```
 ➡️ [Go to Minor Project](./Minor_Project/README.md)
 ---
 
