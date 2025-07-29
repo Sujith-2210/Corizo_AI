@@ -57,7 +57,7 @@ Corizo\_AI\_Internship/
 
   ```bash
   pip install -r Major_Project/requirements.txt
-  ```
+  ````
 
 ➡️ [Go to Major Project](./Major_Project/README.md)
 
